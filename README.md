@@ -1,4 +1,4 @@
-# VitaFlux
+# VitaFlux [![Github latest downloads](https://img.shields.io/github/downloads/DavisDev/VitaFlux/total.svg)](https://github.com/DavisDev/VitaFlux/releases/latest)
 Screen filter plugin for PS Vita.
 
 ![header](screenshot.jpg)
