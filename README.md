@@ -18,8 +18,8 @@ ux0:tai/vflux.suprx
 Remember to use the 'Reload taiHen config.txt' function of MolecularShell.
 
 ### Ctrls: ###
-# In Game:
+ ### In Game: ###
  - Press Start and Select at the same time to show menu.
-# In Menu:
+ ### In Menu: ##
  - Press Circle to close menu.
  - Press Left or Right pad to enable/disable filter.
